@@ -1,0 +1,12 @@
+C:\Xplore\Learn\Practice\RabbitMQ\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Xplore\Learn\Practice\RabbitMQ\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Xplore\Learn\Practice\RabbitMQ\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Xplore\Learn\Practice\RabbitMQ\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Xplore\Learn\Practice\RabbitMQ\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Xplore\Learn\Practice\RabbitMQ\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Xplore\Learn\Practice\RabbitMQ\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Xplore\Learn\Practice\RabbitMQ\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Xplore\Learn\Practice\RabbitMQ\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Xplore\Learn\Practice\RabbitMQ\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Xplore\Learn\Practice\RabbitMQ\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Xplore\Learn\Practice\RabbitMQ\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
